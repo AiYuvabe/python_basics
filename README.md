@@ -1,2 +1,2 @@
 # python_basics
-Let's learn git and git hub
+Let's learn python basics
